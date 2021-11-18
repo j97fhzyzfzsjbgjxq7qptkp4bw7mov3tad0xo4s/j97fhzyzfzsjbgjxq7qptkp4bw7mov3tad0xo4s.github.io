@@ -6,6 +6,14 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>テスト20211118</title>
+            <link>https://j97fhzyzfzsjbgjxq7qptkp4bw7mov3tad0xo4s.github.io/articles/20211118</link>
+            <description>テスト本文です。 テスト本文です。...</description>
+            <pubDate>Thu, 18 Nov 2021 09:27:59 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>test20201007</title>
             <link>https://j97fhzyzfzsjbgjxq7qptkp4bw7mov3tad0xo4s.github.io/articles/20201007</link>
             <description>test...</description>
@@ -75,14 +83,6 @@
             <description>　新型コロナウィルス（COVID-19）の世界的拡大は、各国でリモート教育の利用...</description>
             <pubDate>Sun, 17 May 2020 12:10:00 +0900</pubDate>
             <category>コラム</category>
-        </item>
-        
-        <item>
-            <title>ブログ開設のごあいさつ</title>
-            <link>https://j97fhzyzfzsjbgjxq7qptkp4bw7mov3tad0xo4s.github.io/articles/20200516</link>
-            <description>　フューチャー経済・金融研究所はこのたび、経済金融のトピックを広範に取り上げるブ...</description>
-            <pubDate>Sat, 16 May 2020 12:00:00 +0900</pubDate>
-            <category>others</category>
         </item>
         
     </channel>
