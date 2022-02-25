@@ -2,87 +2,87 @@
 <rss version="2.0">
     <channel>
         <title>Future Fintech EyE - 金融の未来を語るブログ</title>
-        <link>https://j97fhzyzfzsjbgjxq7qptkp4bw7mov3tad0xo4s.github.io</link>
+        <link>https://54.178.65.221</link>
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>テスト20220225</title>
+            <link>https://54.178.65.221/articles/20220225</link>
+            <description>テスト20220225</description>
+            <pubDate>Fri, 25 Feb 2022 10:37:25 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>テスト20211118</title>
-            <link>https://j97fhzyzfzsjbgjxq7qptkp4bw7mov3tad0xo4s.github.io/articles/20211118</link>
-            <description>テスト本文です。 テスト本文です。...</description>
+            <link>https://54.178.65.221/articles/20211118</link>
+            <description>テスト要約です。</description>
             <pubDate>Thu, 18 Nov 2021 09:27:59 +0900</pubDate>
             <category>コラム</category>
         </item>
         
         <item>
             <title>test20201007</title>
-            <link>https://j97fhzyzfzsjbgjxq7qptkp4bw7mov3tad0xo4s.github.io/articles/20201007</link>
-            <description>test...</description>
+            <link>https://54.178.65.221/articles/20201007</link>
+            <description>summary</description>
             <pubDate>Wed, 07 Oct 2020 18:07:28 +0900</pubDate>
             <category>コラム</category>
         </item>
         
         <item>
             <title>【FutureInsightSeminar】「金融はどこまでバーチャル化できるのか」ご案内</title>
-            <link>https://j97fhzyzfzsjbgjxq7qptkp4bw7mov3tad0xo4s.github.io/articles/20200918</link>
-            <description>　この度、フューチャーグループ主催にてオンラインセミナーを開催する運びとなりまし...</description>
+            <link>https://54.178.65.221/articles/20200918</link>
+            <description>10月13日(火)17時からのオンラインセミナーをご案内申し上げます。</description>
             <pubDate>Fri, 18 Sep 2020 16:28:08 +0900</pubDate>
             <category>講演</category>
         </item>
         
         <item>
             <title>『デジタル化する世界と金融―北欧のIT政策とポストコロナの日本への教訓』</title>
-            <link>https://j97fhzyzfzsjbgjxq7qptkp4bw7mov3tad0xo4s.github.io/articles/20200915</link>
-            <description>　このたび、フューチャー経済・金融研究所 所長 山岡と、中曽宏・株式会社大和総研...</description>
+            <link>https://54.178.65.221/articles/20200915</link>
+            <description>出版のご案内</description>
             <pubDate>Tue, 15 Sep 2020 11:00:00 +0900</pubDate>
             <category>others</category>
         </item>
         
         <item>
             <title>作曲する機械</title>
-            <link>https://j97fhzyzfzsjbgjxq7qptkp4bw7mov3tad0xo4s.github.io/articles/20200914</link>
-            <description>　中高時代に学園祭バンドに凝り始めた頃の私のお気に入りは、当時の多くの中高生と同...</description>
+            <link>https://54.178.65.221/articles/20200914</link>
+            <description>情報技術革新は、人間と技術のフィードバックを通じて、さまざまな分野における新たな発見を促す。音楽もまた同じであろう。</description>
             <pubDate>Mon, 14 Sep 2020 10:13:25 +0900</pubDate>
             <category>コラム</category>
         </item>
         
         <item>
             <title>テレビ出演のお知らせ</title>
-            <link>https://j97fhzyzfzsjbgjxq7qptkp4bw7mov3tad0xo4s.github.io/articles/20200615</link>
-            <description>　本日、午後10時30分より放送のBSテレビ東京「日経プラス10」内の特集 - ...</description>
+            <link>https://54.178.65.221/articles/20200615</link>
+            <description>今晩、午後10時30分より放送のBSテレビ東京「日経プラス10」に、フューチャー経済・金融研究所 所長　山岡が出演いたします。</description>
             <pubDate>Mon, 15 Jun 2020 11:06:53 +0900</pubDate>
             <category>others</category>
         </item>
         
         <item>
             <title>ときめかなくなったら、片付ける。</title>
-            <link>https://j97fhzyzfzsjbgjxq7qptkp4bw7mov3tad0xo4s.github.io/articles/20200614</link>
-            <description>　COVID-19の自粛生活の中で、むしろ大変な忙しさになったのがゴミ処理である...</description>
+            <link>https://54.178.65.221/articles/20200614</link>
+            <description>ときめかなくなったものを片付けることは、昔の服や古い本、そして、過去のビジネスモデルやインフラでも簡単ではない。しかし、それができるかどうかが、イノベーションを大きく左右する。</description>
             <pubDate>Sun, 14 Jun 2020 10:18:00 +0900</pubDate>
             <category>コラム</category>
         </item>
         
         <item>
             <title>ハンコのコンキョは？</title>
-            <link>https://j97fhzyzfzsjbgjxq7qptkp4bw7mov3tad0xo4s.github.io/articles/20200522</link>
-            <description>　これまでも、人類の歴史や文化は、パンデミックを契機に大きく変わってきた。では、...</description>
+            <link>https://54.178.65.221/articles/20200522</link>
+            <description>ハンコの要請は実は法律に基づくものは少なく、その多くが実務によって慣性的に作り上げたものだ。ハンコの機能は本質的には「ID」ではなく「鍵」であった。ハンコをID類似のものとして惰性で使い続けるのではなく、ハンコの本来の機能を、デジタル技術を通じて、より高度な形で実現していく取り組みが求められる。</description>
             <pubDate>Fri, 22 May 2020 16:37:00 +0900</pubDate>
             <category>コラム</category>
         </item>
         
         <item>
             <title>『金融の未来―ポスト・フィンテックと「金融5.0」』</title>
-            <link>https://j97fhzyzfzsjbgjxq7qptkp4bw7mov3tad0xo4s.github.io/articles/20200518</link>
-            <description>　このたび、フューチャー経済・金融研究所 所長 山岡が、一般社団法人金融財政事情...</description>
+            <link>https://54.178.65.221/articles/20200518</link>
+            <description>出版のご案内</description>
             <pubDate>Mon, 18 May 2020 13:00:00 +0900</pubDate>
             <category>others</category>
-        </item>
-        
-        <item>
-            <title>教育へのデジタル技術の応用　 </title>
-            <link>https://j97fhzyzfzsjbgjxq7qptkp4bw7mov3tad0xo4s.github.io/articles/20200517</link>
-            <description>　新型コロナウィルス（COVID-19）の世界的拡大は、各国でリモート教育の利用...</description>
-            <pubDate>Sun, 17 May 2020 12:10:00 +0900</pubDate>
-            <category>コラム</category>
         </item>
         
     </channel>
