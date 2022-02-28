@@ -6,6 +6,14 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>テスト20220228</title>
+            <link>https://54.178.65.221/articles/20220228</link>
+            <description>テスト20220228</description>
+            <pubDate>Mon, 28 Feb 2022 09:47:56 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>テスト20220225</title>
             <link>https://54.178.65.221/articles/20220225</link>
             <description>テスト20220225</description>
@@ -75,14 +83,6 @@
             <description>ハンコの要請は実は法律に基づくものは少なく、その多くが実務によって慣性的に作り上げたものだ。ハンコの機能は本質的には「ID」ではなく「鍵」であった。ハンコをID類似のものとして惰性で使い続けるのではなく、ハンコの本来の機能を、デジタル技術を通じて、より高度な形で実現していく取り組みが求められる。</description>
             <pubDate>Fri, 22 May 2020 16:37:00 +0900</pubDate>
             <category>コラム</category>
-        </item>
-        
-        <item>
-            <title>『金融の未来―ポスト・フィンテックと「金融5.0」』</title>
-            <link>https://54.178.65.221/articles/20200518</link>
-            <description>出版のご案内</description>
-            <pubDate>Mon, 18 May 2020 13:00:00 +0900</pubDate>
-            <category>others</category>
         </item>
         
     </channel>
