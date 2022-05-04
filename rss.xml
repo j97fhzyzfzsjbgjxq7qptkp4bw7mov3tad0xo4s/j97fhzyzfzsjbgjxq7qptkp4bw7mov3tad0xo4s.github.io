@@ -6,6 +6,14 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>テスト20220504</title>
+            <link>https://54.178.65.221/articles/20220504</link>
+            <description>テスト20220504</description>
+            <pubDate>Wed, 04 May 2022 10:38:33 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>テスト20220302</title>
             <link>https://54.178.65.221/articles/20220302</link>
             <description>テスト20220302</description>
@@ -75,14 +83,6 @@
             <description>今晩、午後10時30分より放送のBSテレビ東京「日経プラス10」に、フューチャー経済・金融研究所 所長　山岡が出演いたします。</description>
             <pubDate>Mon, 15 Jun 2020 11:06:53 +0900</pubDate>
             <category>others</category>
-        </item>
-        
-        <item>
-            <title>ときめかなくなったら、片付ける。</title>
-            <link>https://54.178.65.221/articles/20200614</link>
-            <description>ときめかなくなったものを片付けることは、昔の服や古い本、そして、過去のビジネスモデルやインフラでも簡単ではない。しかし、それができるかどうかが、イノベーションを大きく左右する。</description>
-            <pubDate>Sun, 14 Jun 2020 10:18:00 +0900</pubDate>
-            <category>コラム</category>
         </item>
         
     </channel>
