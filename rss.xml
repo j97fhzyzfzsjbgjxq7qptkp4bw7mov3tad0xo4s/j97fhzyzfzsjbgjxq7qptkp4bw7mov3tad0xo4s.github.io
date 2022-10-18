@@ -6,6 +6,14 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>テスト20221018</title>
+            <link>https://54.178.65.221/articles/20221018</link>
+            <description>テスト20221018</description>
+            <pubDate>Tue, 18 Oct 2022 13:12:24 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>テスト20220825</title>
             <link>https://54.178.65.221/articles/20220825</link>
             <description>テスト20220825</description>
@@ -75,14 +83,6 @@
             <description>10月13日(火)17時からのオンラインセミナーをご案内申し上げます。</description>
             <pubDate>Fri, 18 Sep 2020 16:28:08 +0900</pubDate>
             <category>講演</category>
-        </item>
-        
-        <item>
-            <title>『デジタル化する世界と金融―北欧のIT政策とポストコロナの日本への教訓』</title>
-            <link>https://54.178.65.221/articles/20200915</link>
-            <description>出版のご案内</description>
-            <pubDate>Tue, 15 Sep 2020 11:00:00 +0900</pubDate>
-            <category>others</category>
         </item>
         
     </channel>
